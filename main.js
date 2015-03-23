@@ -1,7 +1,7 @@
 /**
  * @license MIT http://mu-lib.mit-license.org/
  */
-define([ "poly/object" ], function () {
+define(function () {
 	"use strict";
 
 	/**
